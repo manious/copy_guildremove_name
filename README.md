@@ -1,0 +1,1 @@
+# copy_guildremove_name
